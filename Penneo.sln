@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Penneo", "Penneo\Penneo.csproj", "{B831D8E5-9F4B-4288-9DD5-CC8E8F173C83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample", "Sample\Sample.csproj", "{8A0A9BF9-4E80-4E87-93B1-A774716FA413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B831D8E5-9F4B-4288-9DD5-CC8E8F173C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B831D8E5-9F4B-4288-9DD5-CC8E8F173C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B831D8E5-9F4B-4288-9DD5-CC8E8F173C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B831D8E5-9F4B-4288-9DD5-CC8E8F173C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0A9BF9-4E80-4E87-93B1-A774716FA413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0A9BF9-4E80-4E87-93B1-A774716FA413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0A9BF9-4E80-4E87-93B1-A774716FA413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0A9BF9-4E80-4E87-93B1-A774716FA413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C923E7E6-64CB-4068-BAC9-E654C99010B4}
+	EndGlobalSection
+EndGlobal
